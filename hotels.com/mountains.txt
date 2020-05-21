@@ -1,0 +1,587 @@
+Adamello
+Aiguille de la Grande Sassière
+Aiguille de Leschaux
+Aiguille de Scolette/Pierre Menue
+Aiguille de Tré la Tête	
+Aiguille de Triolet
+Aiguille des Glaciers
+Aiguille Noire de Peuterey
+Alplerspitz
+Mardatsch
+Antelao
+Aouille Tseuque
+Asta Soprana
+Averau
+Basòdino
+Becca del Merlo
+Becca di Luseney
+Pic de Luseney
+Becca di Nona
+Pic de Nona
+Becca di Tey
+Becca di Tos
+Becca di Vlou
+Vluhuare
+Becco di Mezzodì
+Beco Alto del Piz
+Berrio Blanc
+Bessanèse
+Birkenkofel
+Blinnenhorn
+Corno Cieco
+Bortelhorn
+Punta del Rebbio
+Bouquetins
+Brec de Chambeyron
+Breithorn
+Bric Bouchet
+Bric Bucie
+Bric Ghinivert
+Busazza
+Campanile Ciastelin
+Carè Alto
+Castello di Moschesin
+Ciarforon
+Charforon
+Cima Ambrizzola
+Cima Bagni
+Cima Bastioni Sud
+Cima Bel Pra
+Cima Bocche
+Cima Brenta
+Cima Brenta Alta
+Cima Busa Alta
+Cima Cadin di San Lucano
+Cima Carnera
+Cima Ciantiplagna
+Cima Coltorondo
+Cima d'Asta
+Cima d'Auta Orientale
+Cima da Lägh
+Cima di Lago
+Cima de Barna
+Cima de' Piazzi
+Cima dei Preti
+Cima del Desenigo
+Cima del Rouss
+Cima del Serraglio
+Cima dell'Uomo
+Cima della Sasse
+Cima delle Buse
+Cima di Ball
+Cima delle Lose
+Cima di Castello
+Cima di Cece
+Cima di Pape
+Cima di Sanson
+Cima di Quaira
+Karspitze
+Cima di Santa Maria
+Cima Falkner
+Cima Iuribrutto
+Cima Giner
+Cima Ovest
+Westliche Zinne
+Cima Quarazza
+Cima Sud Argentera
+Cima Tosa
+Cima Vezzana
+Cima Viola
+Cime di Plator
+Cime du Gélas
+Monte Gelàs
+Cime Redasco
+Cimon del Froppa
+Col Bechei
+Pareispitze
+Colàc
+Concarena
+Cima della Bacchetta
+Corno Baitone
+Corno Bianco
+Corno Bussola
+Mont de Boussolaz
+Corno dei Tre Signori
+Corno del lago
+Pic du lac
+Siahuare
+Corno di Ban
+Corno di Dosdè
+Corno di Flavona
+Corno di Nefelgiú
+Corno Mud
+Coston di Slavaci
+Croda da Campo
+Croda Granda
+Croda Rossa
+Hohe Gaisl
+Croix Rousse
+Croce Rossa
+Cunturines
+Conturines
+Dent d'Hérens
+Dosson di Genova
+Dosso Resaccio
+Dreiherrnspitze
+Dreischusterspitze
+Durreck
+Dürrenstein
+Ehrenspitze
+Elferkofel
+Cima Undici
+Fensterlekofel
+Fineilspitze
+Frate della Meia
+Furchetta
+Furcheta
+Gametzalpenkopf
+Grabspitze
+Gran Paradiso
+Gran Vernel
+Grand Glaiza
+Punta Merciantaira
+Grand Golliat
+Grand Tournalin
+Grand Nomenon
+Grande Rochère
+Grande Roise
+Grande Rousse
+Bec de l'Invergnan
+Grande Traversière
+Grandes Jorasses
+Pointe Walker
+Graunock
+Grenzgipfel
+Grieshorn
+Grivola
+Grohmannspitze
+Gross Schinhorn
+Punta di Valdeserta
+Große Kinigat
+Monte Cavallino
+Große Ohrenspitze
+Große Zinne
+Cima Grande di Lavaredo	
+Großer Löffler
+Großer Möseler
+Hasenöhrl
+Haunold
+Hintere Eggenspitze
+Cima Sternai
+Hintere Schwärze
+Hinterer Seelenkogel
+Hochfeiler
+Hirzer
+Hochfirst
+Hochgall
+Hochspitz
+M. Vancomun
+Hochwart
+Hochwilde
+Hohe Warte
+Coglians
+Hohe Weiße
+Ilmenspitze
+Cima degli Olmi
+Jakobsspitze
+Jôf dal Montâs
+Jôf Fuart
+Kanin
+Kesselkogel
+Catinaccio d'Antermoia
+Kärlskopf
+Kolbenspitze
+Königspitze
+Gran Zebrù
+La Singla
+Laaser Spitze
+Orgelspitze
+Lagaunspitze
+Langkofel
+Saslonch
+Latemar
+Diamantiditurm
+Levanna Centrale
+M. Aiguillette
+L'Asti
+M. Morion Sud
+Mont Rion Méridional
+Mangart
+Marchhorn
+Pta del Termine
+Marmolada
+Punta Penia
+Mastaunspitze
+Maurerkopf
+Mittler Fanis
+Fanis di Mezzo
+Modeon del Buinz
+Moiazza Sud
+Monfalcon di Montanaia
+Monfandì
+Mongioia
+Mont Avic
+Mont Brulé
+Mont d'Ambin
+Rocca d'Ambin
+Mont de Corni
+Mont Dolent
+Mont Dzerbion
+Monte Zerbion
+Mont Gelé
+Mont Glacier
+Mont Malinvern
+Testa Malinvern
+Mont Néry
+Mont Ouille
+Mont Raffrey
+Mont Rafray
+Mont Ténibre
+M. Tenibres
+Mont Vélan
+Mont-Fallère
+Monte Agnèr
+Monte Bianco
+Mont Blanc
+Monte Albergian
+Monte Bo
+Monte Borga
+Monte Brentoni
+Monte Bruffione
+Monte Cabianca
+Monte Carbonè
+Monte Campellio
+Monte Cassa del Ferro
+Monte Cassorso
+Monte Cernera
+Monte Cevedale
+Monte Cervino
+Mont Cervin
+Matterhorn
+Monte Ciorneva
+Monte Civetta
+Monte Confinale
+Monte Cresto
+Mont Crest
+Monte Cristallo
+Monte Cridola
+Monte del Forno
+Monte delle Scale
+Monte Disgrazia
+Monte Duranno
+Monte Emilius
+Monte Forcellina
+Monte Forno
+Monte Gorio
+Monte Fraiteve
+Monte Frisozzo
+Monte Gavia
+Monte Giove
+Monte Gruf
+Monte le Stelière
+Monte Legnone
+Monte Leone
+Monte Matto
+Monte Mars
+Mont Mars
+Monte Mongioie
+Monte Pelmo
+Monte Orsiera
+Monte Peralba
+Monte Pettini
+Monte Politri
+Monte Pradella
+Monte Re di Castello
+Monte Ruvi
+Monte Redival
+Monte Seleron
+Monte Servin
+Monte Stelle delle Sute	
+Monte Sobretta
+Monte Talvena
+Monte Tagliaferro
+Monte Telenek
+Monte Terza Grande
+Monte Vallecetta
+Monte Vago
+Monteaviolo
+Monviso
+Monte Viso
+Vísol
+Muntejela de Senes
+Napfspitze
+Dreiecketer
+Neuner
+Sas dles Nü
+Ofenhorn
+Punta d'Arbola
+Ortler
+Östliche Feuerstein
+Pala di Meduce
+Pala di San Martino
+Peitlerkofel
+Sas de Pütia
+Penne Blanche
+Penser Weißhorn
+Pietra Grande 
+Piz Albris
+Piz Boè
+Piz Combul
+Piz Corbet
+Piz da l'Acqua
+Piz della Forcola
+Piz di Sassiglion
+Piz Fora
+Piz Glüschaint
+Piz Ledu
+Piz Murtaröl
+Piz Paradisin
+Piz Popena
+Piz Schumbraida
+Piz Sena
+Piz Starlex
+Piz Tea Fondada
+Monte Cornaccia
+Piz Timun
+Pizzo d'Emet	
+Piz Tremoggia
+Piz Zupò
+Pizz Gallagiun
+Galleggione
+Pizzo Alto
+Pizzo Arera
+Pizzo Cavregasco
+Pizzo Cengalo
+Pizzo Coca
+Pizzo del Diavolo della Malgina
+Pizzo dell'Alpe Gelato
+Pizzo del Diavolo di Tenda
+Pizzo di Claro
+Pizzo di Prata
+Pizzo Diei
+Pizzo Dosdè
+Pizzo Filone
+Pizzo Giezza
+Pizzo Montalto
+Pizzo Ligoncio
+Pizzo Quadro
+Pizzo Recastello
+Pizzo Scalino
+Pizzo Stella
+Pizzo Straciugo
+Pizzo Tambo
+Tambohorn
+Pizzo Tre Signori
+Plose
+Große Gabler
+Pointe d'Archeboc
+Pointe de Cloutzau
+Pointe de la Louïe Blanche
+Pointe de l'Aouillé
+Portjengrat: Pizzo d'Andolla
+Presanella
+Presolana
+Pte de Paumont
+Cima del Vallone
+Punta Bianca di Bioula
+Punta Ciamberline
+Punta Cornour
+Punta di Fontanella
+Punta Lavina
+Punta di Pietra Rossa
+Punta Léchaud
+Punta Lunella
+Punta Marguareis
+Punta Nera
+Punta Nera
+Punta Painale
+Punta Ramiere
+Bric Froid
+Punta San Matteo
+Punta Scais
+Punta Sommeiller
+Punta Sorapiss
+Punta Sulè
+Punta Tempesta
+Punta Tersiva
+Reinhart
+Rauhkofel
+Roc du Mulinet
+Cima Martellot
+Rocca Bernauda
+Roche Bernaude
+Rocca Blancia
+Rocca la Meja
+Rocciamelone
+Roche de l'Abisse
+Rocca dell'Abisso
+Rognosa d'Etiache
+d'Étache
+Rognosa di Sestriere
+Rollspitze
+Rosa dei Banchi
+Rose des Bancs
+Rosengartenspitze
+Cima Catinaccio
+Roteck
+Ròthòre
+Corno Rosso
+Rötspitze
+Sas Ciampac
+Ciampatsch
+Sas de Mezdi
+La Mesola
+Sas Rigais
+Sass de Mura
+Sass Maòr
+Sasso Vernale
+Scherbadung
+Pizzo Cervandone
+Schiara
+Schneebiger Nock
+Ruthnerhorn
+Schwalbenkofel
+Schwarzenstein
+Scima da Saoseo
+Seekofel
+Sas dla Porta
+Serottini
+Setsas
+Sommet du Charra
+Sommet du Guiau
+Sonnighorn
+Pizzo Bottarello
+Spechhorn
+izzo d'Antigine
+Steinwand
+Creta Verde
+Tàmer Piccolo
+Stübele
+Stubele
+Testa del Rutor
+Testa Grigia
+Tête grise
+Groabhopt
+Tête de L'Enchastraye
+Enciastraia
+Tête de Moïse
+Tête de Sautron
+Monte Sautron
+Tête des Vieux
+Tête du Pelvas/Monte Palavas
+Toblacher Pfannhorn
+Tofana di Mezzo
+Tofana di Rozes
+Torre del Gran San Pietro
+Torrione dei Longerin
+Tsaat a l'Etsena
+Chateleysine
+Tsanteleina
+Uia di Ciamarella
+Ultner Hochwart
+Veneziaspitze
+Cima Venezia
+Vertainspitze
+Villanderer Berg
+Viso Mozzo
+Wandfluhhorn
+Pizzo Biela
+Wasenhorn
+Punta Terrarossa
+Weiße Wand
+Weißkugel
+Weißseespitze
+Wilde Kreuzspitze
+Wolayer Seekopf
+Monte Capolago
+Wurmaulspitze
+Zehner/Sas dales Diesc
+Zufrittspitze
+Zwölferkofel
+Croda dei Toni	
+Corno Grande
+Monte Amaro
+Serra Dolcedorme
+Montalto
+Monte Cimone
+Monte Amiata
+Monte Vettore
+Monte Lesima
+Monte Viglio
+Monte Velino
+Monte Petrella
+Monte Cervati
+Monte Miletto
+Botte Donato
+Monte Sant'Angelo a Tre Pizzi
+Monte Semprevisa
+Vesuvio
+Monte Pisanino
+Monte Terminillo
+Monte Gorzano
+Monte Avella
+Monte Cairo
+Monte Sirino
+Monte Maggiorasca
+Monte Cervialto
+Monte Taburno
+Monte San Vicino
+Monte Catria
+Monte Sirente
+Monte Greco
+Monte Fumaiolo
+Etna
+Pizzo Carbonara
+Rocca Busambra
+Monte Soro
+Montagna Grande
+Monte Pizzuta
+Monte Altesina
+Monte Sparagio
+Monte Lauro
+Monte delle Felci
+La Marmora
+Monte Linas
+Monte Limbara
+Monte is Caravius	
+Monte Capanne
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
